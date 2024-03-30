@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pratham lashkari</h1>
 <h3 align="center">A CSE student from India</h3>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" width="400" height="300" alt="Your Image">
+</p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamlashkari&label=Profile%20views&color=0e75b6&style=flat" alt="prathamlashkari" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathamlashkari" alt="prathamlashkari" /></a> </p>
@@ -14,9 +20,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/pratham-lashkari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham lashkari" height="30" width="40" /></a>
 <a href="https://instagram.com/prahthamlashkari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prahthamlashkari" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/pratham_110" target="blank"><img align="center" src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" alt="pratham212" height="30" width="40" /></a>
-<a href="https://www.naukri.com/code360/profile/prathamlashkari" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/88321750?v=4" alt="pratham lashkari" height="30" width="40" /></a>
-<a href="https://leetcode.com/Pratham_2521/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prathamlashkari841" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/pratham_110" target="blank"><img align="center" src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" alt="pratham212" height="50" width="50" /></a>
+<a href="https://www.naukri.com/code360/profile/prathamlashkari" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/88321750?v=4" alt="pratham lashkari" height="50" width="50" /></a>
+<a href="https://leetcode.com/Pratham_2521/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prathamlashkari841" height="50" width="50" /></a>
 <a href="https://auth.geeksforgeeks.org/user/prathamlashkari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prathamlashkari" height="30" width="40" /></a>
 </p>
 
