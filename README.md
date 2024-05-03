@@ -33,6 +33,10 @@
  
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamlashkari&show_icons=true&locale=en&layout=compact" alt="prathamlashkari" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathamlashkari&show_icons=true&locale=en" alt="prathamlashkari" /></p>
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=prathamlashkari&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prathamlashkari&theme=2077" height="180em" /></p>
+
+
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prathamlashkari&theme=2077" height="180em" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamlashkari&" alt="prathamlashkari" /></p>
