@@ -11,7 +11,7 @@
  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathamlashkari" alt="prathamlashkari" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce WebApp**
+- 🔭 I’m currently working on **Major Projects**
 
 - 🌱 I’m currently learning **Advance java**
 
