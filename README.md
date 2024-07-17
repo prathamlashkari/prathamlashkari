@@ -9,9 +9,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathamlashkari" alt="prathamlashkari" /></a> </p>
 <p align="center" >
 - 🔭 I’m currently working on **Major Projects**
-
 - 🌱 I’m currently learning **Advance java**
-
 - 📫 How to reach me **prathamlashkari841@gmail.com**
  </p>
 <h3 align="center">Connect with me:</h3>
