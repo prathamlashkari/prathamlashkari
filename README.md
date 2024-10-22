@@ -10,7 +10,7 @@
 
 <h4 align="center">- 🔭 I’m currently working on **Major Projects** </h4>
   
-<h4 align="center">- 🌱 I’m currently learning **Advance java** </h4>
+<h4 align="center">- 🌱 I’m currently learning **Advance java in private repo** </h4>
 
 <h4 align="center">- 📫 How to reach me **prathamlashkari841@gmail.com** </h4>
 
