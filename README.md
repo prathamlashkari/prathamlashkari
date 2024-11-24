@@ -41,45 +41,15 @@
   </a>
 </p>
 
-<h1 align="center">Languages and Tools:</h1>
-<p align="center">
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
- </a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-  <img align="center" src="https://img-c.udemycdn.com/course/750x422/3743246_dd3b_2.jpg" alt="spring" width="50" height="40"/> 
- </a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
-  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNN_ihQpQ_ROKLRUjxlJcVaL0zSHU0bVpv-b_-EvGtgQ&s" alt="react" width="50" height="40"/> 
- </a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-  <img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-1174965.png?f=webp" alt="typescript" width="50" height="40"/> 
- </a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> 
-  <img align="center" src="https://sass-lang.com/assets/img/styleguide/seal-color.png" alt="sass" width="40" height="40"/> 
- </a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
- </a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
- </a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
- </a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
- </a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
- </a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
- </a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
- </a>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+
+| [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=300&lines=Languages)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=200&lines=Frameworks&&lib)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=200&lines=IDEs)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=200&lines=Tools)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=300&lines=Operating+Systems)](https://git.io/typing-svg) | 
+| ----- | ---- | ---- | ---- | ---- |
+| <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,cpp,c" title="Java , Cpp , C"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,redux" title="React, Redux"/></a></div>| <div align="center"><a href="https://skillicons.dev"><img src="https://static-00.iconduck.com/assets.00/intellij-idea-icon-2048x2048-hsyna1mi.png" height="50" title="IntelliJ"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github" title="GitHub"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows" title="Windows"/></a></div> |
+| <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css" title="JavaScript, HTML, CSS"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,express" title="Spring-Boot, Node.js"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" title="Docker"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" title="Linux"/></a></div> |
+| <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,mysql,ts" title="mongodb, MySQL, Scss"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap,tailwind" title="Bootstrap, React"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=eclipse" title="Eclipse"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" title="git"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu"/></a></div> | 
+ 
+
 
 
  <p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prathamlashkari&theme=2077" height="180em" />
