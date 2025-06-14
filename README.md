@@ -55,5 +55,5 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prathamlashkari&theme=2077" height="180em" /><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prathamlashkari&theme=2077" height="180em" /></p>
 
   <p align="center">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamlashkari&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" />
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamlashkari&theme=dark" alt="ananya227" /></p>
   </p>
