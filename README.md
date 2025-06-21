@@ -56,6 +56,6 @@
 
 
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathamlashkari&theme=dark" alt="prathamlashkari" />
+     <img width="49.5%" src="https://nirzak-streak-stats.vercel.app?user=prathamlashkari&theme=dark&hide_border=true" />
   </p>
   
