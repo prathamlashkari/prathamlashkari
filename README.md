@@ -17,12 +17,6 @@
   </a> 
 </p>
 
-<h4 align="center">- 🔭 I’m currently working on **Major Projects** </h4>
-  
-<h4 align="center">- 🌱 I’m currently learning **Advance java in private repo** </h4>
-
-<h4 align="center">- 📫 How to reach me **prathamlashkari841@gmail.com** </h4>
-
 <h1 align="center">Connect with me:</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/pratham-lashkari/" target="blank">
