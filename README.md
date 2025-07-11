@@ -25,9 +25,15 @@
   <a href="https://www.instagram.com/prathamlashkari/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prahthamlashkari" height="30" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/pratham_110" target="blank">
+  
+   <a href="https://codolio.com/profile/Pratham" target="blank">
+    <img align="center" src="https://media.licdn.com/dms/image/v2/D4D22AQGv29nE_F_HRg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1724164365236?e=2147483647&v=beta&t=-AwUx7FTMbXcypoZrZ0SmmEo6so1gb0R1UhiuZ224qI" alt="pratham" height="50" width="50" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
+   <a href="https://www.codechef.com/users/pratham_110" target="blank">
     <img align="center" src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" alt="pratham212" height="50" width="50" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
+ 
   <a href="https://www.naukri.com/code360/profile/prathamlashkari" target="blank">
     <img align="center" src="https://avatars.githubusercontent.com/u/88321750?v=4" alt="pratham lashkari" height="50" width="50" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
