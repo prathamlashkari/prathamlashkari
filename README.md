@@ -13,7 +13,7 @@
  
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=prathamlashkari&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" alt="prathamlashkari" />
+    <img src="https://github-trophies.vercel.app/?username=prathamlashkari&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="prathamlashkari" />
   </a> 
 </p>
 
